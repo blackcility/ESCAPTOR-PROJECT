@@ -5,14 +5,14 @@ super({key:"Exemple1"});
 	
 	preload(){
 	
-	this.load.image('gfs','assets/31073087_2094780174099376_3704042283549589504_n.jpg'}
+	this.load.image('GFS','assets/31073087_2094780174099376_3704042283549589504_n.jpg'}
 	
 
 }
 
 create(){
 	
-	this.image=this.add.imagge(400,300,'GFS');
+	this.image=this.add.image(400,300,'GFS');
 	
 	
 	}
