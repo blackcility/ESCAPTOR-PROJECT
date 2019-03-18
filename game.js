@@ -9,5 +9,5 @@ var config={
 		}},
 	scene:[Exemple1]
 };
-var game =new PPhaser.Game(config);
+var game =new Phaser.Game(config);
 
