@@ -12,7 +12,7 @@ super({key:"Exemple1"});
 
 create(){
 	
-	 this.image=this.add.image(400,300,'GFS');
+	 this.add.image(400,300,'GFS');
 	}
 
 
