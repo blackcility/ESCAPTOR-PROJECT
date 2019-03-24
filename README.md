@@ -12,3 +12,11 @@ https://youtu.be/S2u3GDeECrE?list=PLBGWofHP2A_GEoqrPhXwTmUbc21NJDIfL
 
 inpired by titan ae 
 https://youtu.be/a82L5FjGcps
+
+https://www.instagram.com/faxdoc/
+https://www.instagram.com/alb_inp2/
+
+
+texture atlas tool
+
+https://gammafp.github.io/atlas-packer-phaser/
